@@ -1,0 +1,8 @@
+D:\Cursos bradesco\C#\Tabuada\Tabuada\bin\Debug\Tabuada.exe.config
+D:\Cursos bradesco\C#\Tabuada\Tabuada\bin\Debug\Tabuada.exe
+D:\Cursos bradesco\C#\Tabuada\Tabuada\bin\Debug\Tabuada.pdb
+D:\Cursos bradesco\C#\Tabuada\Tabuada\obj\Debug\Tabuada.Form1.resources
+D:\Cursos bradesco\C#\Tabuada\Tabuada\obj\Debug\Tabuada.Properties.Resources.resources
+D:\Cursos bradesco\C#\Tabuada\Tabuada\obj\Debug\Tabuada.csproj.GenerateResource.cache
+D:\Cursos bradesco\C#\Tabuada\Tabuada\obj\Debug\Tabuada.exe
+D:\Cursos bradesco\C#\Tabuada\Tabuada\obj\Debug\Tabuada.pdb
